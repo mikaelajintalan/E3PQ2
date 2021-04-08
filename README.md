@@ -1,4 +1,4 @@
-Leader: Mikaela L. Jintalan
-Members:
-Janina Faye Genato
-Aldrin John De Vera
+Leader: Mikaela L. Jintalan<br/>
+Members:<br/>
+Janina Faye Genato<br/>
+Aldrin John De Vera<br/>
