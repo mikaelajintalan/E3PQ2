@@ -1,0 +1,47 @@
+div {
+border: 2px solid grey;
+padding: 8px;
+}
+
+body {
+font-family: arial;
+color: #303030;
+}
+
+h1 {
+border: dotted purple;
+border-width: 0 0 8px;
+color: hotpink;
+font-family: times new roman;
+font-size: 40px;
+
+}
+
+h2 {
+color: "#303030";
+font-size: 28px;
+
+}
+
+p {
+line-height: 200%
+}
+
+h3 {
+color: #A0A0A0;
+}
+
+ul {
+border: solid 5px purple;
+background-color: #E5E4E2;
+line-height: 150%
+}
+
+#email {
+color: green;
+text-decoration: none;
+}
+
+#web {
+color: #fd4c0b;
+}
